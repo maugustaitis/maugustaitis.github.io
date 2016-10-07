@@ -613,7 +613,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .section.one h1 {
   font-size: 52px;
-  margin-bottom: 0px;
+  margin-bottom: 15px;
+  line-height: 1.2em;
 }
 
 .section.one h2 {
@@ -764,10 +765,6 @@ h1, h2, h3, h4, h5, h6 {
 /* responsive */
 
 @media screen and (max-width: 479px) {
-  .section.one {
-    margin-top: 65px;
-  }
-
   .section.one h1 {
     font-size: 40px;
   }
@@ -775,6 +772,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media screen and (max-width: 767px) {
   .section.one {
+    margin-top: 65px;
     padding: 70px 0px 150px;
   }
 
@@ -784,7 +782,8 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   .main_menu .menu_item {
-    line-height: 38px;
+    line-height: 50px;
+    float: right;
   }
 
   .main_menu {
@@ -794,7 +793,6 @@ h1, h2, h3, h4, h5, h6 {
   .site_logo {
     width: 45%;
     float: left;
-    margin-bottom: 10px;
   }
 
   .section .image,
