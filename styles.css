@@ -533,7 +533,7 @@ a:active {
   top: 0;
   height: 100%;
   width: 40px;
-  background-image: url(../PSD/obuoliukas/cut/phone.png);
+  background-image: url(images/phone.png);
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -595,7 +595,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   text-align: center;
   text-shadow: 0 0 5px rgba(0,0,0,0.25);
-  background-image: url(../PSD/obuoliukas/cut/bg_image1.jpg);
+  background-image: url(images/bg_image1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -607,7 +607,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 15px;
   bottom: 0;
   left: 0;
-  background-image: url(../PSD/obuoliukas/cut/wave.png);
+  background-image: url(images/wave.png);
   background-repeat: repeat-x;
 }
 
@@ -662,7 +662,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 30px;
   border-radius: 100%;
   border: 2px solid #bbb;
-  background-image: url(../PSD/obuoliukas/cut/flag.png);
+  background-image: url(images/flag.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -672,7 +672,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .section.two .bullet_points .warning {
   color: #be4b52;
-  background-image: url(../PSD/obuoliukas/cut/warning.png);
+  background-image: url(images/warning.png);
   background-repeat: no-repeat;
   background-position: left 8px;
 }
@@ -681,7 +681,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .section.three {
   padding: 80px 0;
-  background-image: url(../PSD/obuoliukas/cut/bg_image2.jpg);
+  background-image: url(images/bg_image2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
@@ -703,7 +703,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 15px;
   top: 0;
   left: 0;
-  background-image: url(../PSD/obuoliukas/cut/wave.png);
+  background-image: url(images/wave.png);
   background-repeat: repeat-x;
   background-position: bottom;
 }
@@ -715,7 +715,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 15px;
   bottom: 0;
   left: 0;
-  background-image: url(../PSD/obuoliukas/cut/wave.png);
+  background-image: url(images/wave.png);
   background-repeat: repeat-x;
 }
 
@@ -749,7 +749,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   width: 40px;
   height: 44px;
-  background-image: url(../PSD/obuoliukas/cut/check.png);
+  background-image: url(images/check.png);
   background-repeat: no-repeat;
   background-position: left center
 }
