@@ -484,6 +484,10 @@ a:active {
 /*--------------------------------------------------------------
 # Theme
 --------------------------------------------------------------*/
+#main {
+  min-width: 320px;
+}
+
 .header {
   background-color: #fff;
   padding: 8px 15px;
@@ -493,6 +497,7 @@ a:active {
   width: 100%;
   z-index: 1;
   border-bottom: 1px solid #eee;
+  min-width: 320px;
 }
 
 .site_logo {
